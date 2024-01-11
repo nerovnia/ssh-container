@@ -1,4 +1,5 @@
 # ssh-container
+[![Docker Image CI](https://github.com/rightsoftend/ssh-container/actions/workflows/docker-image.yml/badge.svg)](https://github.com/rightsoftend/ssh-container/actions/workflows/docker-image.yml)
 
 ## Simple SSH container
 
